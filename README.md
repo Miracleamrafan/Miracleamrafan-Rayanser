@@ -69,7 +69,7 @@ $ node julie.js
 </p>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+Click WA logo to Join Support our  Group 👇
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
