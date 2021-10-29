@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://drive.google.com/file/d/18JzNuyhMFyqv4llMZbVzqpr2PlvIcsS3/view?usp=drivesdk.jpeg>
+<img src=https://imgur.com/a/8eCySbd.jpeg>
 </p>
   <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-SANJU_https://github.com/Miracleamrafan/Miracleamrafan-Rayanser/edit/master/README.mdv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
